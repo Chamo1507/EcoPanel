@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nosotros | EcoPanel</title>
+
+  <link rel="stylesheet" href="./Assets/css/normalizer.css" />
+  <link rel="stylesheet" href="./Assets/css/style1.css" />
+  <link rel="stylesheet" href="./Assets/css/about.css" />
+</head>
+
+<body>
+
+  <!-- NAV reutiliza style1.css -->
+
+  <header class="header">
+    <nav class="nav">
+
+      <div class="nav__brand">
+        <img class="nav__logo" src="./Assets/img/Icon-EcoPanel.PNG" alt="Logo EcoPanel">
+        <span class="nav__name">EcoPanel</span>
+      </div>
+
+      <ul class="nav__list">
+        <li class="nav__item"><a class="nav__link" href="index.html">Inicio</a></li>
+        <li class="nav__item"><a class="nav__link" href="Nosotros.html">Nosotros</a></li>
+        <li class="nav__item"><a class="nav__link" href="Blog.html">Blog</a></li>
+        <li class="nav__item"><a class="nav__link" href="Contacto.html">Contacto</a></li>
+      </ul>
+
+    </nav>
+  </header>
+
+
+  <!-- ABOUT -->
+  <section class="about">
+
+    <div class="about__intro">
+      <h1 class="about__title">Sobre Nosotros</h1>
+      <p class="about__description">
+        En EcoPanel impulsamos la economía circular ofreciendo soluciones
+        solares accesibles, sostenibles y certificadas.
+      </p>
+    </div>
+
+    <div class="about__content">
+
+      <article class="about-card">
+        <h2 class="about-card__title">Nuestra Misión</h2>
+        <p class="about-card__text">
+          Facilitar el acceso a energías renovables mediante paneles
+          reacondicionados y nuevos con garantía certificada.
+        </p>
+      </article>
+
+      <article class="about-card">
+        <h2 class="about-card__title">Nuestra Visión</h2>
+        <p class="about-card__text">
+          Ser líderes en soluciones solares sustentables en México,
+          promoviendo el consumo responsable.
+        </p>
+      </article>
+
+      <article class="about-card">
+        <h2 class="about-card__title">Nuestros Valores</h2>
+        <ul class="about-card__list">
+          <li class="about-card__item">Sustentabilidad</li>
+          <li class="about-card__item">Transparencia</li>
+          <li class="about-card__item">Innovación</li>
+        </ul>
+      </article>
+
+    </div>
+
+  </section>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p class="footer__text">© 2026 Proyecto Web - Primer Parcial</p>
+  </footer>
+
+</body>
+</html>
