@@ -24,7 +24,7 @@ Se trabajó en la organización del contenido, estructura de navegación y desar
 
 1. Clona este repositorio:
 
-   git clone https://github.com/tu-usuario/ecopanel.git
+   git clone [https://github.com/tu-usuario/ecopanel.git](https://github.com/Chamo1507/EcoPanel.git)
 
 2. Ingresa a la carpeta del proyecto:
 
