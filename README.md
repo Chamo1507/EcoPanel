@@ -65,4 +65,6 @@ SERRANO DURAN LILIA JUNCAL
 
 TORRES FAJARDO VICTOR URIEL
 
+TOXTLE GARCIA, TIFFANY YUSANI
+
 Proyecto realizado en equipo para la materia Plataformas Abiertas II.
